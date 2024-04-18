@@ -4,7 +4,6 @@ SwiftUI 와 Mapkit 을 이용한 지도기반 채용시스템
 
 ## Features
 
-- [x] 
 - [x] Cluster
 - [x] Localization
 - [ ] CoreData 연동
